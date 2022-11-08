@@ -11,7 +11,7 @@ Please report issues via the repo [Issue Tracker](https://github.com/SMPTE/st206
 # SMPTE ST 2067-70
 Public CD of SMPTE ST 2067-70 - Interoperable Master Format – Application ST 2019-1 (VC-3)
 
-Public Committee Draft was approved September 2, 2022 and posted to GitHub on October 18, 2022
+Public Committee Draft was approved October 18, 2022 and posted to GitHub on [DATE]
 
 This material is work under development and shall not be referred to as a SMPTE Standard, Recommended Practice, or Engineering Guideline. It is distributed for review and comment; distribution does not constitute publication.
 
