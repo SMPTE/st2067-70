@@ -8,8 +8,8 @@ Please consult [CONTRIBUTING.md](./CONTRIBUTING.md), [CONFIDENTIALITY.md](./CONF
 
 Please report issues via the repo [Issue Tracker](https://github.com/SMPTE/st2067-70/issues) or at [35pm-chair@smpte.org](mailto:35pm-chair@smpte.org).
 
-# SMPTE ST 2117-10
-Public CD of SMPTE ST 2117-10 - Mapping VC-6 into the MXF Generic Container
+# SMPTE ST 2067-70
+Public CD of SMPTE ST 2067-70 - Mapping VC-6 into the MXF Generic Container
 
 Public Committee Draft was approved September 2, 2022 and posted to GitHub on September 8, 2022
 
